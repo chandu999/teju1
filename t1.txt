@@ -4,5 +4,12 @@ where r u
 who r u
 who is this
 what is this
+<<<<<<< HEAD
 what is this1
 how is thi:s
+soni======
+chandra
+bharath
+bhaskar
+hi
+>>>>>>> hfhgfhgfhgfhgfhgfghfghfgfgfb
