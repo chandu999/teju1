@@ -11,5 +11,14 @@ soni======
 chandra
 bharath
 bhaskar
+<<<<<<< HEAD
 hi
 >>>>>>> hfhgfhgfhgfhgfhgfghfghfgfgfb
+=======
+narasaraopet
+guntur
+hyderabad
+satanapalli
+kandlakunta
+
+>>>>>>> b
