@@ -5,6 +5,7 @@ who r u
 who is this
 what is this
 <<<<<<< HEAD
+<<<<<<< HEAD
 what is this1
 how is thi:s
 soni======
@@ -22,3 +23,7 @@ satanapalli
 kandlakunta
 
 >>>>>>> b
+=======
+what is this1
+how is this
+>>>>>>> 35f5b86... kjffdjbjhf
